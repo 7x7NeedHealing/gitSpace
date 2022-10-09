@@ -42,8 +42,11 @@ export default {
 </script>
 
 <style scoped>
+body {
+  min-width: 1200px;
+}
 
-.blue{
+.blue {
   color: #29b8f7;
   border-bottom: 3px solid #29b8f7;
 }
